@@ -1,5 +1,5 @@
 
-<h2> Hi, I am Srishti Arora <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50" height = "30"></h2>
+<h2> Hi, I'm Srishti Arora! <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50" height = "30"></h2>
 <img align='right' src="https://www.awingu.com/wp-content/uploads/2017/01/msft-office.gif" width="270" height = "220">
 
 <p>
