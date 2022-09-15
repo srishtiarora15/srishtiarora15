@@ -1,15 +1,18 @@
 
 <h2> Hi, I am Srishti Arora <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="50" height = "30"></h2>
+<img align='right' src="https://www.awingu.com/wp-content/uploads/2017/01/msft-office.gif" width="270" height = "220">
+
 <p>
-  <em> Data Analyst at Digital Lighthouse, KPMG Assurance and Consulting Services LLP</br>
+  <em> Data Analyst at Digital Lighthouse, <a href="https://home.kpmg/in/en/home/services/advisory.html">KPMG Assurance and Consulting Services LLP</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
   <em>Former Research Intern at <a href="https://www.drdo.gov.in/">Defense Research & Development Organization(DRDO), India</a><img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"></br>
-  <em> Graduated in Bachelors of Technology, Computer Science and Engineering from <a href="https://pec.ac.in/">Punjab Engineering College(Deemed to be University), Chandigarh, India</a> in 2022
+  <em> Graduated in Bachelors of Technology, Computer Science and Engineering from <a href="https://pec.ac.in/">Punjab Engineering College(Deemed to be University), Chandigarh, India</a> in 2022 <img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
 </p>
+
 
 <h3 align="left">Connect with me:</h3>
 
-[![Linkedin: saksham117](https://img.shields.io/badge/-srishtiarora15-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srishti-arora15/)](https://www.linkedin.com/in/srishti-arora15/)
-[![GitHub saksham117](https://img.shields.io/github/followers/saksham117?label=follow&style=social)](https://github.com/srishtiarora15)
+[![Linkedin: srishtiarora15](https://img.shields.io/badge/-srishtiarora15-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srishti-arora15/)](https://www.linkedin.com/in/srishti-arora15/)
+[![GitHub srishtiarora15](https://img.shields.io/github/followers/srishtiarora15?label=follow&style=social)](https://github.com/srishtiarora15)
 
 
 <h3 align="left">Languages and Tools:</h3>
