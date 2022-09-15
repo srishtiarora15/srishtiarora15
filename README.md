@@ -8,8 +8,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/srishti-arora15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="srishti-arora15" height="30" width="40" /></a>
-<a href="https://instagram.com/srishti_arora15" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="srishti_arora15" height="30" width="40" /></a>
+[![Linkedin: saksham117](https://img.shields.io/badge/-srishtiarora15-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/srishti-arora15/)](https://www.linkedin.com/in/srishti-arora15/)
+[![GitHub saksham117](https://img.shields.io/github/followers/saksham117?label=follow&style=social)](https://github.com/srishtiarora15)
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
